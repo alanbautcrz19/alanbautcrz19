@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help Next.js.
 - 💬 Ask me about with my favorite programming language.
 - 📫 How to reach me: alanbautcrz19.
-- 😄 Pronouns: He.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I paid for microsoft.
